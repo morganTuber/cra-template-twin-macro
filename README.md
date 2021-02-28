@@ -1,8 +1,12 @@
 # Create a react-app preconfigured with tailwindcss using twin.macro and @emotion
 
-### `npx create-react-app app-name --template twin-macro`
+```sh
+npx create-react-app app-name --template twin-macro
+```
 
-### `yarn create react-app app-name --template twin-macro`
+```sh
+yarn create react-app app-name --template twin-macro
+```
 
 # Getting Started with Create React App
 
