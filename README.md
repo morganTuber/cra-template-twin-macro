@@ -55,4 +55,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).\
 To learn Taliwindcss, check out the [Tailwindcss documentation](https://tailwindcss.com/docs).\
-To learn twin.macro, check out the [Twin.macro documentation](https://github.com/ben-rogerson/twin.macro).\
+To learn twin.macro, check out the [Twin.macro documentation](https://github.com/ben-rogerson/twin.macro).
